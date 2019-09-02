@@ -1,0 +1,22 @@
+{
+    "ground": 380,
+    "map": [
+    	{"x": 630, "y": 341, "width": 90, "height": 100}
+    ],
+	"assets": [{
+		"name": "Bowser",
+		"src": "./assets/bowser.png",
+		"frames": {
+			"idle": [0]
+		},
+		"dims": {
+			"x": 32,
+			"y": 32
+		},
+		"type": "sprite"
+	}, {
+	    "name": "Background",
+	    "src": "./assets/bowserCastle.jpg",
+	    "type": "background"
+	}]
+}
